@@ -1,0 +1,1 @@
+javascript:eMlAd4S='';for (i=0;i<document.links.length;i++) {if (document.links[i].protocol=='mailto:')eMlAd4S+=document.links[i].pathname+'\n'};if(eMlAd4S!=''){alert(eMlAd4S)}else{alert('No mailto links on this page!')}
